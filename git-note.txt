@@ -1,0 +1,12 @@
+$ git init
+$ git clone
+$ git remote rm origin
+$ git branch
+$ git branch --list
+$ git checkout
+$ git checkout -b
+$ git add
+$ git commit -am “”
+$ git push
+$ git pull
+$ git log
